@@ -558,6 +558,7 @@ body{
     text-align: center;
     margin-top: -10rem;
     margin-bottom: -10rem;
+   
 }
 
 .clients .section-header p {
@@ -575,7 +576,7 @@ body{
     opacity: 1;
     transition: 0.3s;
     padding: 15px 0;
-   
+   width: 180px;
     height: 200px;
    
     
@@ -591,6 +592,7 @@ body{
     text-align: center;
     justify-content: center;
 padding: 20px;    
+height: 200px;
     
 }
 .owl-carousel .owl-item img {
